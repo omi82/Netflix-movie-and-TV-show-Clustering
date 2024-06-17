@@ -11,7 +11,7 @@ This project aims to cluster Netflix movies and TV shows based on their similari
 ## Methods
 
 1. **Data Collection:**
-   - Scrape data from the Netflix website or use an existing dataset containing information about Netflix movies and shows.
+   - Collect data from the Kaggle website an existing dataset containing information about Netflix movies and shows.
    - Extract relevant features such as title, genre, release year, and user ratings.
 
 2. **Data Preprocessing:**
